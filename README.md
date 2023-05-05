@@ -13,6 +13,20 @@ Inclusivity: Alternative credit scoring methods can be more inclusive and provid
 Increase accuracy of traditional credit scoring methods: Alternative credit scoring methods take into account a wider range of data beyond credit history, which provides a more accurate picture of one’s creditworthiness
 ______________________________
 
-LoanDefault_EDA.ipynb : is where we did our data cleaning and Exploratory Data Analysis (EDA)
+Machine Learning Algorithms used:
 
-models_techniques_PCA_SVD.ipynb : is where we utilize the different machine learning algorithms
+* Logistic Regression
+
+* Naive Bayes
+
+* Support Vector Machine (SVM)
+
+* Decision Tree
+
+* Random Forest
+
+* MLP Classifier 
+
+* eXtreme Gradient Boosting (XGBoost)
+
+*Note: Performed Ensembling Method (Boosting, Bagging, Stacking)
